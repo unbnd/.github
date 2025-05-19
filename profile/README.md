@@ -6,10 +6,10 @@
 ![Vercel](https://img.shields.io/badge/Deployments-Vercel-informational?style=flat&logo=vercel&color=000000)
 ![Linux](https://img.shields.io/badge/Servers-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-With our deep passion for **Good UI and UX, and more unique features,** and **AI-driven technologies**, We specialize in turning complex want-and-needs into scalable, innovative apps for everyone to enjoy.
+We're making social media for the 21st century the social way. no ads, no bots, and definately reach for smaller accounts. powered by unidentity.
 
-- 🔭 Currently working on top-secret projects to reshape industries.
-- 🌱 Always expanding our knowledge and contributing back to open-source communities.
-- 🚀 On a mission to push the boundaries of what's possible with code.
+- 🔭 currently working on you know what to make identities on the internet finally personal
+- 🌱 always expanding our knowledge and contributing back to open-source communities
+- 🚀 on a mission to push the boundaries of what's possible with code
 
     <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
